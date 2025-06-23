@@ -1,0 +1,21 @@
+# Ignore backup and temporary files
+*.bak
+*.tmp
+*.swp
+
+# Ignore Proteus auto-generated files
+*.ddb
+*.exf
+*.idx
+*.smt
+
+# Exclude all other Proteus temporary files, but keep the project file
+*.dsn
+!*.pdsprj
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore other temporary or cache files
+*.log
