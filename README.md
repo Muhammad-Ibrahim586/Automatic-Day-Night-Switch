@@ -19,7 +19,7 @@ The circuit uses an LDR to sense light intensity. When the light level falls bel
 
 ## Files Included
 1) **Proteus Simulation File:** The `.pdsprj` file containing the circuit design.
-2) **Report.pdf:** A detailed explanation of the project, including the design, working principles, and applications.
+2) **Report:** A detailed explanation of the project, including the design, working principles, and applications.
 
 ## Instructions
 1. Download the repository.
